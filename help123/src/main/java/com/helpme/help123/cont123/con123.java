@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class con123 {
     @RequestMapping(value="s",method= RequestMethod.GET)
     public static String c1(){
-        return "i hate mm everyone";
+        return "hi everyone";
     }
 }
